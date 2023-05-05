@@ -8,9 +8,9 @@ I am currently a member of the ZeroToMastery organization and I am actively look
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [damiemmanuel1000@gmail.com](mailto:damiemmanuel1000@gmail.com)
-* 🧠  I'm learning Data structures and Algorithms and exploring chakra UI
+* 🧠  I'm learning Data structures and Algorithms. I am also currently exploring chakra UI.
 * 🤝  I'm open to collaborating on any projects that includes React, TypeScript, JavaScript, styled-components, Material UI, chakra UI, Ant Design and any other frontend technologies.
-* ⚡  I am secretly a problem solver and budding B.Tech in Physics.
+* ⚡  I am secretly a problem solver, budding B.Tech in Physics and really love positive impact.
 
 ### Skills
 
