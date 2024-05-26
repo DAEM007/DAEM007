@@ -10,7 +10,7 @@ I am currently a member of the ZeroToMastery organization and I am actively look
 * ✉️  You can contact me at [damiemmanuel1000@gmail.com](mailto:damiemmanuel1000@gmail.com)
 * 🧠  I'm learning Data structures and Algorithms. I am also currently exploring Nodejs.
 * 🤝  I'm open to collaborating on any projects that includes React, TypeScript, JavaScript, styled-components, Material UI, chakra UI, Ant Design and any other frontend technologies.
-* ⚡  I am secretly a problem solver, budding B.Tech in Physics and really love positive impact.
+* ⚡  I am secretly a problem solver, graduated with a B.Tech in Physics and really love positive impact.
 
 ### Skills
 
