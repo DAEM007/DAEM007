@@ -8,4 +8,4 @@ AI, Machine Learning, Deep Learning
 * ✉️  You can contact me at [damiemmanuel1000@gmail.com](mailto:damiemmanuel1000@gmail.com)
 * 🧠  Enjoy solving Data structures and Algorithms.
 * 🤝  I'm open to collaborating on any projects that includes python, ML, Deep Learning, can also work around the MERN stack.
-* ⚡  Doing some interesting Physics stuffs and really love positive impact.
+* ⚡  Doing some interesting Physics stuff and really love positive impact.
